@@ -44,3 +44,6 @@ Show a hand gesture — and get the result!
 📂 Output
 The image displays the detected gesture label over the hand in real-time.
 
+🔴LIVE DEMO - t https://atharva-tech046.github.io/Real-time-Hand-gesture-recognition-system-using-OpenCV-and-mediapipeon-/
+
+
