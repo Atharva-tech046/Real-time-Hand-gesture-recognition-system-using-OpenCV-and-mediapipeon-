@@ -127,4 +127,4 @@ with mp_hands.Hands(
     except Exception as e:
         print(f"Error: {e}")
 
-i want a readme to thisproject 
+
