@@ -2,8 +2,11 @@
 
 This project uses Google Colab to capture an image from a webcam, detect a hand using the MediaPipe library, and recognize a specific gesture. The recognized gesture and the hand landmarks are then displayed on the output image.
 
-![Hand Gesture Recognition Demo](https://i.imgur.com/gYdI6nS.png)
-*Note: You can replace the image URL with a screenshot of your own project running.*
+![thumbs up ](https://github.com/user-attachments/assets/07ba6308-acb8-42b8-8962-b6192e0e0ebe)
+![peace ](https://github.com/user-attachments/assets/b92dd127-b3a9-475b-bbeb-f8a393ed5f60)
+![open palm ](https://github.com/user-attachments/assets/b07bd9f6-4661-4bcc-ac70-979ebd00f8ed)
+
+
 
 ---
 ## 📜 Description
