@@ -9,7 +9,7 @@ An interactive Computer Vision pipeline that transforms your webcam into a gestu
 
 ---
 
-## 📸 Live Preview
+## 🔴 Live Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/07ba6308-acb8-42b8-8962-b6192e0e0ebe" width="30%" />
@@ -19,7 +19,7 @@ An interactive Computer Vision pipeline that transforms your webcam into a gestu
 
 ---
 
-## ✨ Key Features
+## 🔑 Key Features
 
 * **⚡ Real-time Detection:** High-speed hand landmark tracking (21 unique points).
 * **🌐 Colab Native:** Custom JavaScript bridge to access local webcams within virtual environments.
